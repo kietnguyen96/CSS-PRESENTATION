@@ -1,0 +1,160 @@
+﻿ html, body, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    border: 1px solid red;
+    vertical-align: middle;
+
+}
+
+.container {
+    margin: 180px;
+    width: 600px;
+    height: 38px;
+    position: relative;
+    background-color: red;
+    border-radius: 19px;
+    }
+
+.nested {
+    background-color: black;
+    position: absolute;
+    /*vertical-align: middle;*/
+    border-color: red;
+}
+
+.a1 {
+    width: 77px;
+    height: 35px;
+    right: 0;
+    top: 0.5pt;
+    border-radius: 18px;
+}
+
+.a2 {
+    width: 68px;
+    height: 32.8px;
+    top: 0.5px;
+    right: 47px;
+    border-radius: 17px;
+}
+
+.a3 {
+    width: 66px; 
+    height: 31px;
+    right: 45px;
+    border-radius: 16px;
+}
+
+.a4 {
+    width: 64px;
+    height: 29px;
+    right: 42px;
+    border-radius: 15px;
+}
+
+.a5 {
+    width: 62px;
+    height: 27px;
+    right: 42px;
+    border-radius: 14px;
+}
+
+.a6 {
+    width: 58px;
+    height: 25px;
+    right: 40px;
+    border-radius: 13px;
+}
+    
+.a7 {
+    width: 55px;
+    height: 23.5px;
+    right: 40px;
+    border-radius: 12px;
+}
+
+.a8 {
+    width: 48px;
+    height: 22px;
+    right: 38px;
+    border-radius: 11px;
+}
+
+.a9 {
+    width: 48px;
+    height: 20px;
+    right: 37px;
+    border-radius: 10px;
+}
+
+.a10 {
+    width: 38px;
+    height: 18px;
+    right: 28px;
+    border-radius: 9px;
+}
+
+.a11 {
+    width: 32px;
+    height: 16px;
+    right: 26px;
+    border-radius: 8px;
+}
+
+.a12 {
+    width: 26px;
+    height: 14px;
+    right: 22px;
+    border-radius: 7px;
+}
+
+.a13 {
+    width: 22px;
+    height: 12px;
+    right: 18px;
+    border-radius: 6px;
+}
+
+.a14 {
+    width: 18px;
+    height: 10px;
+    right: 16px;
+    border-radius: 5px;
+}
+
+.a15 {
+    width: 15px;
+    height: 8px;
+    right: 14px;
+    border-radius: 4px;
+}
+
+.a16 {
+    width: 13px;
+    height: 6px;
+    right: 12px;
+    border-radius: 3px;
+}
+
+.a17 {
+    width: 11.5px;
+    height: 4px;
+    right: 9px;
+    border-radius: 2px;
+}
+
+.a18 {
+    width: 11px;
+    height: 3px;
+    right: 6px;
+    border-radius: 1px;
+}
+.a19 {
+    width: 8px;
+    height: 2px;
+    right: 5px;
+    border-radius: 1px;
+}
